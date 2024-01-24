@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
 	<artifactId>app1-comp1-release</artifactId>
-	<version>7.0.0</version>
+	<version>8.0.0</version>
 	<name>ServiceNow DevOps Change Sample</name>
 
 	<!-- Define project dependencies -->
